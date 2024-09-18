@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+~/venvs/
+ENV/
+
+# System or editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Colab and notebook metadata
+*.json
+*.bak
+
+# HTML exports (kept locally but not needed in repo)
+*.html
+
+# Data files
+data/*.csv
+data/*.xlsx
+data/*.txt
+data/*.zip
+
+# pytest cache
+.pytest_cache/
+.cache/
