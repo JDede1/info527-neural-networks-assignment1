@@ -128,6 +128,4 @@ Grading is based solely on the correctness of the code written in `stv_nn.ipynb`
 
 This repository was completed as part of INFO 527: Neural Networks, under the M.S. in Information Science and Machine Learning program (2023–2025).
 
-```
-
 ---
